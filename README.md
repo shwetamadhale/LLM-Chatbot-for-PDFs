@@ -58,21 +58,4 @@ This chatbot application allows users to upload PDF documents and query their co
 2. **Ask questions** based on the uploaded documents.
 3. **Receive AI-generated responses** with context from the documents.
 
-## Project Structure
-```
-ChatbotApp/
-│── app.py                  # Main Streamlit application
-│── htmlTemplates.py        # HTML and CSS templates for chat UI
-│── requirements.txt        # List of dependencies
-│── utils/
-│   ├── text_processing.py  # Text extraction and processing
-│   ├── vector_store.py     # FAISS-based retrieval
-│   ├── chatbot.py         # Conversational logic
-```
-
-## Contributing
-Contributions are welcome! Feel free to submit pull requests or open issues.
-
-## License
-This project is licensed under the MIT License.
 
