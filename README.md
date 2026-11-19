@@ -10,7 +10,6 @@ A chatbot application built using Streamlit that enables interaction with custom
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 This chatbot application allows users to upload PDF documents and query their content using a conversational interface. It employs embeddings and vector stores to retrieve relevant information efficiently.
